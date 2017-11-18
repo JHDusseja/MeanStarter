@@ -1,0 +1,2 @@
+# MeanStarter
+Mean Stack Starter
